@@ -1,0 +1,9 @@
+{
+  "appId": "ca.plusconstruction.payroll",
+  "appName": "Plus Construction Payroll",
+  "webDir": "www",
+  "server": {
+    "url": "https://timetracking.plusconstruction.ca",
+    "cleartext": true
+  }
+}
